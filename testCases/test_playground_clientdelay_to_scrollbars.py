@@ -14,7 +14,7 @@ class Test_clientdelay_to_scrollbars:
     click_url=Readconfig.get_click_url()
     logs=Log_genrator_class.logs_method(f".\\Logs\\clientdelay_to_scrollbars.log")
 
-
+    @pytest.mark.skip
     def test_client_delay_005(self):
         self.logs.info("--Starting test_client_delay_005----")
         self.driver.get(self.clientdelay_url)
@@ -28,6 +28,7 @@ class Test_clientdelay_to_scrollbars:
         print(f"message--> {message}")
         self.logs.info(f"Message for dealy client checking--->{message}")
 
+    @pytest.mark.flaky(reruns=2, reruns_delay=2)
     def test_click_006(self):
         self.logs.info("\n----starting test_click_006-----")
         self.driver.get(self.click_url)

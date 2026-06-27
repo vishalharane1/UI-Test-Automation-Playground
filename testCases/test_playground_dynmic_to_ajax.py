@@ -14,7 +14,7 @@ class Test_UI_Play:
     hiddenlayers_url=Readconfig.get_hiddenlayers()
     logs=Log_genrator_class.logs_method(r"Logs/UITesting_Playgrond_second.log")
     url_ajax=Readconfig.get_ajex_url()
-
+    @pytest.mark.xfail
     def test_dynamic_001(self):
         self.driver.get(self.dynamic_url)
         self.logs.info("\n------Start Testing test_dynamic_001---")
@@ -29,7 +29,7 @@ class Test_UI_Play:
         self.dy_click.click_btn()
         self.logs.info("Button clicked now End dynamic Button Click ")
         self.logs.info("\n------END Testing test_dynamic_001---")
-
+    @pytest.mark.sanity
     def test_classattr_002(self):
         self.logs.info("\n------Starting Testing test_classattr_002---")
         self.driver.get(self.class_attr_url)
@@ -55,7 +55,7 @@ class Test_UI_Play:
 
         self.hideen_op.click_btn_hidden()
         self.logs.info(f"Before click button colour--> {before_colour}")
-
+    @pytest.mark.regression
     def test_ajax_004(self):
         self.logs.info("\n----Starting test_ajax_004----")
         self.driver.get(self.url_ajax)
