@@ -1,3 +1,4 @@
+import allure
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.support.wait import WebDriverWait
@@ -27,9 +28,16 @@ class Click:
     def __init__(self,driver):
         self.driver=driver
 
+    def attach_screenshot(self, name="Screenshot"):
+        allure.attach(
+            self.driver.get_screenshot_as_png(),
+            name=name,
+            attachment_type=allure.attachment_type.PNG
+        )
+
     def click_badButton(self):
         self.driver.find_element(By.ID,self.click_id).click()
-        self.driver.save_screenshot(".\\Screenshots\\butclick.png")
+        self.attach_screenshot("Buttonclick_test")
 
 
 
