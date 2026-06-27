@@ -1,0 +1,15 @@
+I am vishal harane
+Required lab
+pytest
+selenium
+pytest-xdist
+pytest-html
+pytest-sugar
+pytest-cov
+openpyxl
+allure-pytest
+faker
+pytest-rerunfailures
+webdriver_manager
+pytest-order
+pytest-dependency
