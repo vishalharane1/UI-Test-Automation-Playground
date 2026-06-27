@@ -1,0 +1,5 @@
+[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:163 The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+[32mINFO    [0m root:test_playground_dynmic_to_ajax.py:60 
+----Starting test_ajax_004----
+[32mINFO    [0m root:test_playground_dynmic_to_ajax.py:62 Title of page--->AJAX Data
+[32mINFO    [0m root:test_playground_dynmic_to_ajax.py:67 After clicking button message--->Data loaded with AJAX get request.

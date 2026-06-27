@@ -1,0 +1,9 @@
+[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:163 The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+[32mINFO    [0m root:test_playground_dynmic_to_ajax.py:20 
+------Start Testing test_dynamic_001---
+[32mINFO    [0m root:test_playground_dynmic_to_ajax.py:21 URL working on http://uitestingplayground.com/dynamicid
+[32mINFO    [0m root:test_playground_dynmic_to_ajax.py:23 Title-- Dynamic ID
+[32mINFO    [0m root:test_playground_dynmic_to_ajax.py:28 Button clicked now working 
+[32mINFO    [0m root:test_playground_dynmic_to_ajax.py:30 Button clicked now End dynamic Button Click 
+[32mINFO    [0m root:test_playground_dynmic_to_ajax.py:31 
+------END Testing test_dynamic_001---

@@ -1,0 +1,138 @@
+2026-06-27 07:45:15,380:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 07:45:16,468:INFO:test_client_delay_005:15:--Starting test_client_delay_005----
+2026-06-27 07:45:18,440:INFO:test_client_delay_005:17:URL--->http://uitestingplayground.com/clientdelay
+2026-06-27 07:45:18,447:INFO:test_client_delay_005:18:TITLE--->Client Side Delay
+2026-06-27 07:45:18,454:INFO:test_client_delay_005:20:---End TestCase test_client_delay_005---
+2026-06-27 08:30:49,475:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.96 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 08:30:50,508:INFO:test_client_delay_005:16:--Starting test_client_delay_005----
+2026-06-27 08:30:52,757:INFO:test_client_delay_005:18:URL--->http://uitestingplayground.com/clientdelay
+2026-06-27 08:30:52,766:INFO:test_client_delay_005:19:TITLE--->Client Side Delay
+2026-06-27 08:30:52,771:INFO:test_client_delay_005:21:---End TestCase test_client_delay_005---
+2026-06-27 08:31:07,955:INFO:test_client_delay_005:26:Message for dealy client checking--->Data calculated on the client side.
+2026-06-27 10:36:05,433:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 10:36:06,401:INFO:test_click_006:32:
+----starting test_click_006-----
+2026-06-27 10:36:08,232:INFO:test_click_006:34:URL--->http://uitestingplayground.com/click
+2026-06-27 10:36:08,238:INFO:test_click_006:36:TITLE--->Click
+2026-06-27 10:36:35,858:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 10:36:36,639:INFO:test_click_006:32:
+----starting test_click_006-----
+2026-06-27 10:36:38,633:INFO:test_click_006:34:URL--->http://uitestingplayground.com/click
+2026-06-27 10:36:38,642:INFO:test_click_006:36:TITLE--->Click
+2026-06-27 13:48:58,564:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 13:48:58,568:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 13:48:58,569:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 13:48:58,570:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 13:48:58,571:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 13:48:58,572:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 13:49:01,093:INFO:test_client_delay_005:19:--Starting test_client_delay_005----
+2026-06-27 13:49:01,287:INFO:test_click_006:32:
+----starting test_click_006-----
+2026-06-27 13:49:01,537:INFO:test_classattr_002:34:
+------Starting Testing test_classattr_002---
+2026-06-27 13:49:01,598:INFO:test_hiddenlayers_003:45:
+-----Starting of test_hiddenlayers_003-----
+2026-06-27 13:49:02,067:INFO:test_ajax_004:60:
+----Starting test_ajax_004----
+2026-06-27 13:49:03,450:INFO:test_hiddenlayers_003:47:URL--->http://uitestingplayground.com/hiddenlayers
+2026-06-27 13:49:04,011:INFO:test_dynamic_001:20:
+------Start Testing test_dynamic_001---
+2026-06-27 13:49:04,012:INFO:test_dynamic_001:21:URL working on http://uitestingplayground.com/dynamicid
+2026-06-27 13:49:04,056:INFO:test_click_006:34:URL--->http://uitestingplayground.com/click
+2026-06-27 13:49:04,559:INFO:test_click_006:36:TITLE--->Click
+2026-06-27 13:49:04,997:INFO:test_dynamic_001:23:Title-- Dynamic ID
+2026-06-27 13:49:05,308:INFO:test_hiddenlayers_003:49:Page Title--> Hidden Layers
+2026-06-27 13:49:05,310:INFO:test_classattr_002:36:Url we working on -->https://uitestingplayground.com/classattr
+2026-06-27 13:49:05,642:INFO:test_dynamic_001:28:Button clicked now working 
+2026-06-27 13:49:05,714:INFO:test_hiddenlayers_003:54:Aflter clicking button colour--> rgba(40, 167, 69, 1)
+2026-06-27 13:49:05,718:INFO:test_classattr_002:38:--Title---Class Attribute
+2026-06-27 13:49:06,099:INFO:test_client_delay_005:21:URL--->http://uitestingplayground.com/clientdelay
+2026-06-27 13:49:06,249:INFO:test_client_delay_005:22:TITLE--->Client Side Delay
+2026-06-27 13:49:06,424:INFO:test_client_delay_005:24:---End TestCase test_client_delay_005---
+2026-06-27 13:49:07,298:INFO:test_dynamic_001:30:Button clicked now End dynamic Button Click 
+2026-06-27 13:49:07,298:INFO:test_dynamic_001:31:
+------END Testing test_dynamic_001---
+2026-06-27 13:49:07,444:INFO:test_ajax_004:62:Title of page--->AJAX Data
+2026-06-27 13:49:07,495:INFO:test_hiddenlayers_003:57:Before click button colour--> rgba(40, 167, 69, 1)
+2026-06-27 13:49:07,718:INFO:test_classattr_002:42:
+------END Testing test_classattr_002---
+2026-06-27 13:49:22,967:INFO:test_client_delay_005:29:Message for dealy client checking--->Data calculated on the client side.
+2026-06-27 13:49:23,666:INFO:test_ajax_004:67:After clicking button message--->Data loaded with AJAX get request.
+2026-06-27 13:50:45,374:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 13:50:45,374:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 13:50:45,383:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 13:50:45,385:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 13:50:45,392:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 13:50:45,408:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 13:50:47,464:INFO:test_click_006:32:
+----starting test_click_006-----
+2026-06-27 13:50:47,655:INFO:test_classattr_002:34:
+------Starting Testing test_classattr_002---
+2026-06-27 13:50:47,622:INFO:test_hiddenlayers_003:45:
+-----Starting of test_hiddenlayers_003-----
+2026-06-27 13:50:48,069:INFO:test_ajax_004:60:
+----Starting test_ajax_004----
+2026-06-27 13:50:48,566:INFO:test_client_delay_005:19:--Starting test_client_delay_005----
+2026-06-27 13:50:49,909:INFO:test_hiddenlayers_003:47:URL--->http://uitestingplayground.com/hiddenlayers
+2026-06-27 13:50:50,190:INFO:test_classattr_002:36:Url we working on -->https://uitestingplayground.com/classattr
+2026-06-27 13:50:50,331:INFO:test_hiddenlayers_003:49:Page Title--> Hidden Layers
+2026-06-27 13:50:50,372:INFO:test_classattr_002:38:--Title---Class Attribute
+2026-06-27 13:50:50,593:INFO:test_click_006:34:URL--->http://uitestingplayground.com/click
+2026-06-27 13:50:50,746:INFO:test_hiddenlayers_003:54:Aflter clicking button colour--> rgba(40, 167, 69, 1)
+2026-06-27 13:50:50,776:INFO:test_click_006:36:TITLE--->Click
+2026-06-27 13:50:51,155:INFO:test_client_delay_005:21:URL--->http://uitestingplayground.com/clientdelay
+2026-06-27 13:50:51,357:INFO:test_client_delay_005:22:TITLE--->Client Side Delay
+2026-06-27 13:50:51,535:INFO:test_client_delay_005:24:---End TestCase test_client_delay_005---
+2026-06-27 13:50:52,011:INFO:test_dynamic_001:20:
+------Start Testing test_dynamic_001---
+2026-06-27 13:50:52,012:INFO:test_dynamic_001:21:URL working on http://uitestingplayground.com/dynamicid
+2026-06-27 13:50:52,109:INFO:test_hiddenlayers_003:57:Before click button colour--> rgba(40, 167, 69, 1)
+2026-06-27 13:50:52,324:INFO:test_dynamic_001:23:Title-- Dynamic ID
+2026-06-27 13:50:52,522:INFO:test_dynamic_001:28:Button clicked now working 
+2026-06-27 13:50:52,991:INFO:test_ajax_004:62:Title of page--->AJAX Data
+2026-06-27 13:50:53,198:INFO:test_dynamic_001:30:Button clicked now End dynamic Button Click 
+2026-06-27 13:50:53,199:INFO:test_dynamic_001:31:
+------END Testing test_dynamic_001---
+2026-06-27 13:50:57,271:INFO:test_classattr_002:42:
+------END Testing test_classattr_002---
+2026-06-27 13:51:07,691:INFO:test_client_delay_005:29:Message for dealy client checking--->Data calculated on the client side.
+2026-06-27 13:51:09,418:INFO:test_ajax_004:67:After clicking button message--->Data loaded with AJAX get request.
+2026-06-27 13:56:09,243:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 13:56:09,290:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 13:56:09,293:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 13:56:09,294:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 13:56:09,297:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 13:56:09,304:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 13:56:11,723:INFO:test_hiddenlayers_003:45:
+-----Starting of test_hiddenlayers_003-----
+2026-06-27 13:56:12,193:INFO:test_click_006:32:
+----starting test_click_006-----
+2026-06-27 13:56:12,259:INFO:test_client_delay_005:19:--Starting test_client_delay_005----
+2026-06-27 13:56:12,279:INFO:test_classattr_002:34:
+------Starting Testing test_classattr_002---
+2026-06-27 13:56:12,479:INFO:test_ajax_004:60:
+----Starting test_ajax_004----
+2026-06-27 13:56:14,024:INFO:test_hiddenlayers_003:47:URL--->http://uitestingplayground.com/hiddenlayers
+2026-06-27 13:56:14,063:INFO:test_dynamic_001:20:
+------Start Testing test_dynamic_001---
+2026-06-27 13:56:14,064:INFO:test_client_delay_005:21:URL--->http://uitestingplayground.com/clientdelay
+
+2026-06-27 13:56:14,940:INFO:test_hiddenlayers_003:49:Page Title--> Hidden Layers
+2026-06-27 13:56:15,798:INFO:test_hiddenlayers_003:54:Aflter clicking button colour--> rgba(40, 167, 69, 1)
+2026-06-27 13:56:16,233:INFO:test_classattr_002:36:Url we working on -->https://uitestingplayground.com/classattr
+2026-06-27 13:56:16,936:INFO:test_click_006:34:URL--->http://uitestingplayground.com/click
+2026-06-27 13:56:16,961:INFO:test_classattr_002:38:--Title---Class Attribute
+2026-06-27 13:56:17,158:INFO:test_click_006:36:TITLE--->Click
+2026-06-27 13:56:17,234:INFO:test_dynamic_001:23:Title-- Dynamic ID
+2026-06-27 13:56:17,517:INFO:test_ajax_004:62:Title of page--->AJAX Data
+2026-06-27 13:56:17,676:INFO:test_client_delay_005:22:TITLE--->Client Side Delay
+2026-06-27 13:56:17,704:INFO:test_dynamic_001:28:Button clicked now working 
+2026-06-27 13:56:17,750:INFO:test_client_delay_005:24:---End TestCase test_client_delay_005---
+2026-06-27 13:56:17,928:INFO:test_hiddenlayers_003:57:Before click button colour--> rgba(40, 167, 69, 1)
+2026-06-27 13:56:18,720:INFO:test_classattr_002:42:
+------END Testing test_classattr_002---
+2026-06-27 13:56:18,938:INFO:test_dynamic_001:30:Button clicked now End dynamic Button Click 
+2026-06-27 13:56:18,939:INFO:test_dynamic_001:31:
+------END Testing test_dynamic_001---
+2026-06-27 13:56:34,073:INFO:test_client_delay_005:29:Message for dealy client checking--->Data calculated on the client side.
+2026-06-27 13:56:34,397:INFO:test_ajax_004:67:After clicking button message--->Data loaded with AJAX get request.

@@ -1,0 +1,6 @@
+[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:163 The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+[32mINFO    [0m root:test_playground_clientdelay_to_scrollbars.py:19 --Starting test_client_delay_005----
+[32mINFO    [0m root:test_playground_clientdelay_to_scrollbars.py:21 URL--->http://uitestingplayground.com/clientdelay
+[32mINFO    [0m root:test_playground_clientdelay_to_scrollbars.py:22 TITLE--->Client Side Delay
+[32mINFO    [0m root:test_playground_clientdelay_to_scrollbars.py:24 ---End TestCase test_client_delay_005---
+[32mINFO    [0m root:test_playground_clientdelay_to_scrollbars.py:29 Message for dealy client checking--->Data calculated on the client side.

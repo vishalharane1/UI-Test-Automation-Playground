@@ -1,0 +1,7 @@
+[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:163 The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+[32mINFO    [0m root:test_playground_dynmic_to_ajax.py:45 
+-----Starting of test_hiddenlayers_003-----
+[32mINFO    [0m root:test_playground_dynmic_to_ajax.py:47 URL--->http://uitestingplayground.com/hiddenlayers
+[32mINFO    [0m root:test_playground_dynmic_to_ajax.py:49 Page Title--> Hidden Layers
+[32mINFO    [0m root:test_playground_dynmic_to_ajax.py:54 Aflter clicking button colour--> rgba(40, 167, 69, 1)
+[32mINFO    [0m root:test_playground_dynmic_to_ajax.py:57 Before click button colour--> rgba(40, 167, 69, 1)
