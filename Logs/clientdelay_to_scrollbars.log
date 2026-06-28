@@ -343,3 +343,20 @@ Starting test_text_box_007---------------
 2026-06-28 07:18:38,730:INFO:test_dynamic_table_0010:44:Name Column = 1
 2026-06-28 07:18:38,730:INFO:test_dynamic_table_0010:45:CPU Column = 2
 2026-06-28 07:18:38,751:INFO:test_dynamic_table_0010:59:Chrome CPU Value ---> 8.3%
+2026-06-28 09:51:27,510:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-28 09:51:31,882:INFO:test_verify_text_0011:67:---Starting fo test test_verify_text_0011---
+2026-06-28 09:51:33,978:INFO:test_verify_text_0011:70:----Title-- > Verify Text
+2026-06-28 09:52:36,456:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-28 09:52:40,032:INFO:test_verify_text_0011:67:---Starting fo test test_verify_text_0011---
+2026-06-28 09:52:40,044:INFO:test_verify_text_0011:70:----Title-- > Verify Text
+2026-06-28 09:52:40,079:INFO:test_verify_text_0011:72:--Return text--->Hello UserName!
+2026-06-28 09:55:27,083:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-28 09:55:30,786:INFO:test_verify_text_0011:67:---Starting fo test test_verify_text_0011---
+2026-06-28 09:55:30,804:INFO:test_verify_text_0011:70:----Title-- > Verify Text
+2026-06-28 09:55:30,839:INFO:test_verify_text_0011:72:--Return text--->Welcome UserName!
+2026-06-28 09:57:05,262:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-28 09:57:09,617:INFO:test_verify_text_0011:67:---Starting fo test test_verify_text_0011---
+2026-06-28 09:57:09,631:INFO:test_verify_text_0011:70:----Title-- > Verify Text
+2026-06-28 09:57:09,664:INFO:test_verify_text_0011:72:--Return text--->Welcome UserName!
+2026-06-28 11:05:39,710:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-28 11:05:42,991:INFO:test_progressbar_012:78:---Starting fo test test_progressbar_012---

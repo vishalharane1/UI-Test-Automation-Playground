@@ -1,6 +1,6 @@
 import pytest
 
-from pageObjects.dynamictable_to_visibility_page_objects import Dynamictable
+from pageObjects.dynamictable_to_visibility_page_objects import Dynamictable, Verify_text_class, Progressbar_class
 from utilites.Logger import Log_genrator_class
 from utilites.Read_Properties_dynamictable_to_visibility import Read_Config_for_dynamic_visible
 
@@ -9,7 +9,9 @@ class Test_Playgroud_003:
     driver=None
 
     url_dynamic=Read_Config_for_dynamic_visible.get_url_dynamic_table()
+    verify_text_url=Read_Config_for_dynamic_visible.get_url_verifytext()
     Logs=Log_genrator_class.logs_method(".\\Logs\\dynamic_tables.logs")
+    progressbar_url=Read_Config_for_dynamic_visible.get_url_progressbar()
 
     def test_dynamic_table_0010(self):
         self.driver.get(self.url_dynamic)
@@ -60,3 +62,29 @@ class Test_Playgroud_003:
                 assert cpu_value in verfily, f"Expected {verfily}, but got {cpu_value}"
 
                 break
+
+    def test_verify_text_0011(self):
+        self.driver.get(self.verify_text_url)
+        self.Logs.info("---Starting fo test test_verify_text_0011---")
+        assert self.driver.title=="Verify Text","We not landed correct page"
+        self.ver_text=Verify_text_class(self.driver)
+        self.Logs.info(f"----Title-- > {self.driver.title}")
+        text= self.ver_text.text_ruturn()
+        self.Logs.info(f"--Return text--->{text}")
+        assert "Welcome" in text, f"Failed Test cases -->test_verify_text_0011 return text{text}"
+
+    def test_progressbar_012(self):
+        self.driver.get(self.progressbar_url)
+        self.Logs.info("---Starting fo test test_progressbar_012---")
+        assert self.driver.title == "Progress Bar", f"We not landed correct page page title-->{self.driver.title}"
+        self.processbar=Progressbar_class(self.driver)
+        self.processbar.click_processbar_button()
+        # self.Logs.info(f"---Processbar--->{self.processbar.click_processbar_button().progress}")
+
+
+
+
+
+
+
+

@@ -20,4 +20,35 @@ class Dynamictable:
         return self.driver.find_element(By.XPATH,self.verfiy_value_xpath).text
 
 
+class Verify_text_class:
+    text_class="bg-primary"
+
+    def __init__(self,driver):
+        self.driver=driver
+
+    def text_ruturn(self):
+        return self.driver.find_element(By.CLASS_NAME,self.text_class).text
+
+class Progressbar_class:
+    start_button_xpath="//button[@id='startButton']"
+    stop_button_xpath="//button[@id='stopButton']"
+    processbar_id="progressBar"
+    def __init__(self, driver):
+        self.driver = driver
+    def click_processbar_button(self):
+        self.driver.find_element(By.XPATH,self.start_button_xpath).click()
+        while True:
+            progress = self.driver.find_element(By.ID,self.processbar_id).text
+            # Example: "75%"
+
+            if progress == "75%":
+                self.driver.find_element(By.XPATH, self.stop_button_xpath).click()
+                self.driver.save_screenshot(".\\Screenshots\\Processbar_status.png")
+                break
+
+    # def click_stop_button(self):
+    #     self.driver.find_element(By.XPATH,self.stop_button_xpath).click()
+
+
+
 
