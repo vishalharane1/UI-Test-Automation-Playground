@@ -26,4 +26,19 @@ class Readconfig:
     @staticmethod
     def get_click_url():
         return Readconfig.config.get("urls","click")
+    @staticmethod
+    def get_textbox_url():
+        return Readconfig.config.get("urls","textinputurl")
+    @staticmethod
+    def get_scrollbars_url():
+        return Readconfig.config.get("urls","scrollbars")
+
+
+class TextBox_data:
+    config2=configparser.ConfigParser()
+    config2.read(".\\Configurations\\config.ini")
+
+    @staticmethod
+    def get_data_button_text():
+        return TextBox_data.config2.get("TextInput","button_text")
 

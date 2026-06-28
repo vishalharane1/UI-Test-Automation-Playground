@@ -136,3 +136,210 @@
 ------END Testing test_dynamic_001---
 2026-06-27 13:56:34,073:INFO:test_client_delay_005:29:Message for dealy client checking--->Data calculated on the client side.
 2026-06-27 13:56:34,397:INFO:test_ajax_004:67:After clicking button message--->Data loaded with AJAX get request.
+2026-06-27 16:57:31,711:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 16:59:42,703:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 17:00:26,378:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 17:01:27,347:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 17:07:03,419:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 17:07:04,388:INFO:test_textbox_007:50:----------------
+Starting test_text_box_007---------------
+2026-06-27 17:07:06,490:INFO:test_textbox_007:52:----opening url---> https://uitestingplayground.com/textinput
+2026-06-27 17:07:06,501:INFO:test_textbox_007:53:Page Title ---> Text Input
+2026-06-27 17:07:06,813:INFO:test_textbox_007:59:button_text ---> New Button
+2026-06-27 17:07:06,813:INFO:test_textbox_007:60:from page same text for verfily ---> New Button
+2026-06-27 17:37:23,962:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 17:38:01,128:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 17:40:28,352:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 17:41:23,563:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 17:41:57,586:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 17:42:52,781:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 20:03:48,617:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 20:06:40,838:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 20:06:44,142:INFO:test_dynamic_table_0010:16:---Starting fo test test_dynamic_table_0010---
+2026-06-27 20:06:44,143:INFO:test_dynamic_table_0010:17:---URL--->https://uitestingplayground.com/dynamictable
+2026-06-27 20:06:44,150:INFO:test_dynamic_table_0010:18:---TITLE--->Dynamic Table
+2026-06-27 20:07:33,394:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 20:07:36,376:INFO:test_dynamic_table_0010:16:---Starting fo test test_dynamic_table_0010---
+2026-06-27 20:07:36,377:INFO:test_dynamic_table_0010:17:---URL--->https://uitestingplayground.com/dynamictable
+2026-06-27 20:07:36,383:INFO:test_dynamic_table_0010:18:---TITLE--->Dynamic Table
+2026-06-27 20:09:05,758:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 20:09:08,842:INFO:test_dynamic_table_0010:16:---Starting fo test test_dynamic_table_0010---
+2026-06-27 20:09:08,842:INFO:test_dynamic_table_0010:17:---URL--->https://uitestingplayground.com/dynamictable
+2026-06-27 20:09:08,847:INFO:test_dynamic_table_0010:18:---TITLE--->Dynamic Table
+2026-06-27 20:09:08,862:INFO:test_dynamic_table_0010:22:---Len of table--->4
+2026-06-27 20:30:14,686:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 20:30:18,279:INFO:test_dynamic_table_0010:16:---Starting fo test test_dynamic_table_0010---
+2026-06-27 20:30:18,279:INFO:test_dynamic_table_0010:17:---URL--->https://uitestingplayground.com/dynamictable
+2026-06-27 20:30:18,286:INFO:test_dynamic_table_0010:18:---TITLE--->Dynamic Table
+2026-06-27 20:30:18,307:INFO:test_dynamic_table_0010:22:---Len of table--->4
+2026-06-27 20:30:18,340:INFO:test_dynamic_table_0010:26:---CPU Values 1--->64.4 MB
+2026-06-27 20:30:18,367:INFO:test_dynamic_table_0010:26:---CPU Values 2--->46.8 MB
+2026-06-27 20:30:18,393:INFO:test_dynamic_table_0010:26:---CPU Values 3--->59.6 MB
+2026-06-27 20:30:18,418:INFO:test_dynamic_table_0010:26:---CPU Values 4--->78.3 MB
+2026-06-27 20:31:26,546:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 20:31:30,421:INFO:test_dynamic_table_0010:16:---Starting fo test test_dynamic_table_0010---
+2026-06-27 20:31:30,422:INFO:test_dynamic_table_0010:17:---URL--->https://uitestingplayground.com/dynamictable
+2026-06-27 20:31:30,436:INFO:test_dynamic_table_0010:18:---TITLE--->Dynamic Table
+2026-06-27 20:31:30,457:INFO:test_dynamic_table_0010:22:---Len of table--->4
+2026-06-27 20:41:07,680:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 20:41:11,800:INFO:test_dynamic_table_0010:16:---Starting fo test test_dynamic_table_0010---
+2026-06-27 20:41:11,800:INFO:test_dynamic_table_0010:17:---URL--->https://uitestingplayground.com/dynamictable
+2026-06-27 20:41:11,836:INFO:test_dynamic_table_0010:18:---TITLE--->Dynamic Table
+2026-06-27 20:41:11,876:INFO:test_dynamic_table_0010:22:---Len of table--->4
+2026-06-27 20:42:23,189:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 20:42:26,333:INFO:test_dynamic_table_0010:16:---Starting fo test test_dynamic_table_0010---
+2026-06-27 20:42:26,333:INFO:test_dynamic_table_0010:17:---URL--->https://uitestingplayground.com/dynamictable
+2026-06-27 20:42:26,339:INFO:test_dynamic_table_0010:18:---TITLE--->Dynamic Table
+2026-06-27 20:42:26,356:INFO:test_dynamic_table_0010:22:---Len of table--->4
+2026-06-27 20:43:32,315:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 20:43:35,442:INFO:test_dynamic_table_0010:16:---Starting fo test test_dynamic_table_0010---
+2026-06-27 20:43:35,443:INFO:test_dynamic_table_0010:17:---URL--->https://uitestingplayground.com/dynamictable
+2026-06-27 20:43:35,450:INFO:test_dynamic_table_0010:18:---TITLE--->Dynamic Table
+2026-06-27 20:43:35,476:INFO:test_dynamic_table_0010:22:---Len of table--->4
+2026-06-27 20:44:58,097:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 20:45:01,613:INFO:test_dynamic_table_0010:16:---Starting fo test test_dynamic_table_0010---
+2026-06-27 20:45:01,614:INFO:test_dynamic_table_0010:17:---URL--->https://uitestingplayground.com/dynamictable
+2026-06-27 20:45:01,622:INFO:test_dynamic_table_0010:18:---TITLE--->Dynamic Table
+2026-06-27 20:45:01,656:INFO:test_dynamic_table_0010:22:---Len of table--->4
+2026-06-27 20:45:01,692:INFO:test_dynamic_table_0010:25:---task_manger 1--->Name
+2026-06-27 20:45:01,720:INFO:test_dynamic_table_0010:25:---task_manger 2--->Network
+2026-06-27 20:45:01,745:INFO:test_dynamic_table_0010:25:---task_manger 3--->CPU
+2026-06-27 20:45:01,791:INFO:test_dynamic_table_0010:32:---task_manger 1--->CPU
+2026-06-27 20:45:01,791:INFO:test_dynamic_table_0010:34:---CPU Values 1--->0.8 MB
+2026-06-27 20:45:01,829:INFO:test_dynamic_table_0010:32:---task_manger 2--->CPU
+2026-06-27 20:45:01,830:INFO:test_dynamic_table_0010:34:---CPU Values 2--->85.2 MB
+2026-06-27 20:45:01,870:INFO:test_dynamic_table_0010:32:---task_manger 3--->CPU
+2026-06-27 20:45:01,870:INFO:test_dynamic_table_0010:34:---CPU Values 3--->10.8 MB
+2026-06-27 20:45:01,941:INFO:test_dynamic_table_0010:32:---task_manger 4--->CPU
+2026-06-27 20:45:01,941:INFO:test_dynamic_table_0010:34:---CPU Values 4--->40.7 MB
+2026-06-27 20:45:01,969:INFO:test_dynamic_table_0010:25:---task_manger 4--->Disk
+2026-06-27 20:47:23,271:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 20:47:26,809:INFO:test_dynamic_table_0010:16:---Starting fo test test_dynamic_table_0010---
+2026-06-27 20:47:26,810:INFO:test_dynamic_table_0010:17:---URL--->https://uitestingplayground.com/dynamictable
+2026-06-27 20:47:26,819:INFO:test_dynamic_table_0010:18:---TITLE--->Dynamic Table
+2026-06-27 20:47:26,840:INFO:test_dynamic_table_0010:22:---Len of table--->4
+2026-06-27 20:47:59,517:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 20:48:04,034:INFO:test_dynamic_table_0010:16:---Starting fo test test_dynamic_table_0010---
+2026-06-27 20:48:04,035:INFO:test_dynamic_table_0010:17:---URL--->https://uitestingplayground.com/dynamictable
+2026-06-27 20:48:04,047:INFO:test_dynamic_table_0010:18:---TITLE--->Dynamic Table
+2026-06-27 20:48:04,067:INFO:test_dynamic_table_0010:22:---Len of table--->4
+2026-06-27 20:48:04,102:INFO:test_dynamic_table_0010:25:---task_manger 1--->Name
+2026-06-27 20:48:04,131:INFO:test_dynamic_table_0010:25:---task_manger 2--->Memory
+2026-06-27 20:48:04,158:INFO:test_dynamic_table_0010:25:---task_manger 3--->Disk
+2026-06-27 20:48:04,184:INFO:test_dynamic_table_0010:25:---task_manger 4--->Network
+2026-06-27 20:58:59,610:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 20:59:02,643:INFO:test_dynamic_table_0010:16:---Starting fo test test_dynamic_table_0010---
+2026-06-27 20:59:02,643:INFO:test_dynamic_table_0010:17:---URL--->https://uitestingplayground.com/dynamictable
+2026-06-27 20:59:05,303:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 20:59:06,818:INFO:test_click_006:39:
+----starting test_click_006-----
+2026-06-27 20:59:07,984:INFO:test_click_006:41:URL--->http://uitestingplayground.com/click
+2026-06-27 20:59:10,037:INFO:test_click_006:39:
+----starting test_click_006-----
+2026-06-27 20:59:27,736:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 20:59:30,774:INFO:test_dynamic_table_0010:16:---Starting fo test test_dynamic_table_0010---
+2026-06-27 20:59:30,775:INFO:test_dynamic_table_0010:17:---URL--->https://uitestingplayground.com/dynamictable
+2026-06-27 20:59:30,781:INFO:test_dynamic_table_0010:18:---TITLE--->Dynamic Table
+2026-06-27 20:59:30,798:INFO:test_dynamic_table_0010:22:---Len of table--->4
+2026-06-27 20:59:30,820:INFO:test_dynamic_table_0010:25:---task_manger 1--->Name
+2026-06-27 20:59:30,840:INFO:test_dynamic_table_0010:25:---task_manger 2--->Network
+2026-06-27 20:59:30,862:INFO:test_dynamic_table_0010:25:---task_manger 3--->CPU
+2026-06-27 20:59:30,901:INFO:test_dynamic_table_0010:32:---task_manger 3--->CPU
+2026-06-27 20:59:30,901:INFO:test_dynamic_table_0010:34:---CPU Values 1--->3.5%
+2026-06-27 20:59:30,934:INFO:test_dynamic_table_0010:32:---task_manger 3--->CPU
+2026-06-27 20:59:30,935:INFO:test_dynamic_table_0010:34:---CPU Values 2--->5%
+2026-06-27 20:59:30,978:INFO:test_dynamic_table_0010:32:---task_manger 3--->CPU
+2026-06-27 20:59:30,978:INFO:test_dynamic_table_0010:34:---CPU Values 3--->7.6%
+2026-06-27 20:59:31,027:INFO:test_dynamic_table_0010:32:---task_manger 3--->CPU
+2026-06-27 20:59:31,027:INFO:test_dynamic_table_0010:34:---CPU Values 4--->8.3%
+2026-06-27 20:59:31,051:INFO:test_dynamic_table_0010:25:---task_manger 4--->Disk
+2026-06-27 21:00:31,126:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 21:00:34,672:INFO:test_dynamic_table_0010:16:---Starting fo test test_dynamic_table_0010---
+2026-06-27 21:00:34,673:INFO:test_dynamic_table_0010:17:---URL--->https://uitestingplayground.com/dynamictable
+2026-06-27 21:00:34,687:INFO:test_dynamic_table_0010:18:---TITLE--->Dynamic Table
+2026-06-27 21:00:34,730:INFO:test_dynamic_table_0010:22:---Len of table--->4
+2026-06-27 21:00:34,761:INFO:test_dynamic_table_0010:25:---task_manger 1--->Name
+2026-06-27 21:00:34,785:INFO:test_dynamic_table_0010:25:---task_manger 2--->Memory
+2026-06-27 21:00:34,809:INFO:test_dynamic_table_0010:25:---task_manger 3--->CPU
+2026-06-27 21:00:34,849:INFO:test_dynamic_table_0010:34:---CPU Values 1--->5.4%
+2026-06-27 21:00:34,898:INFO:test_dynamic_table_0010:34:---CPU Values 2--->1.6%
+2026-06-27 21:00:34,953:INFO:test_dynamic_table_0010:34:---CPU Values 3--->3.6%
+2026-06-27 21:00:35,004:INFO:test_dynamic_table_0010:34:---CPU Values 4--->6.5%
+2026-06-27 21:00:35,030:INFO:test_dynamic_table_0010:25:---task_manger 4--->Disk
+2026-06-27 21:05:37,048:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 21:05:41,787:INFO:test_dynamic_table_0010:16:---Starting fo test test_dynamic_table_0010---
+2026-06-27 21:05:41,787:INFO:test_dynamic_table_0010:17:---URL--->https://uitestingplayground.com/dynamictable
+2026-06-27 21:05:41,801:INFO:test_dynamic_table_0010:18:---TITLE--->Dynamic Table
+2026-06-27 21:05:41,822:INFO:test_dynamic_table_0010:22:---Len of table--->4
+2026-06-27 21:05:41,852:INFO:test_dynamic_table_0010:25:---task_manger 1--->Name
+2026-06-27 21:05:41,969:INFO:test_dynamic_table_0010:25:---task_manger 2--->Network
+2026-06-27 21:05:41,990:INFO:test_dynamic_table_0010:25:---task_manger 3--->CPU
+2026-06-27 21:05:42,012:INFO:test_dynamic_table_0010:25:---task_manger 4--->Disk
+2026-06-27 21:25:09,697:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 21:25:12,678:INFO:test_dynamic_table_0010:16:---Starting fo test test_dynamic_table_0010---
+2026-06-27 21:25:12,679:INFO:test_dynamic_table_0010:17:---URL--->https://uitestingplayground.com/dynamictable
+2026-06-27 21:25:12,683:INFO:test_dynamic_table_0010:18:---TITLE--->Dynamic Table
+2026-06-27 21:25:12,721:INFO:test_dynamic_table_0010:33:Header 1 ---> Name
+2026-06-27 21:25:12,740:INFO:test_dynamic_table_0010:33:Header 2 ---> CPU
+2026-06-27 21:25:12,773:INFO:test_dynamic_table_0010:33:Header 3 ---> Memory
+2026-06-27 21:25:12,800:INFO:test_dynamic_table_0010:33:Header 4 ---> Disk
+2026-06-27 21:25:12,800:INFO:test_dynamic_table_0010:41:Name Column = 1
+2026-06-27 21:25:12,801:INFO:test_dynamic_table_0010:42:CPU Column = 2
+2026-06-27 21:25:12,915:INFO:test_dynamic_table_0010:56:Chrome CPU Value ---> 7.6%
+2026-06-27 21:25:50,331:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 21:25:54,006:INFO:test_dynamic_table_0010:16:---Starting fo test test_dynamic_table_0010---
+2026-06-27 21:25:54,006:INFO:test_dynamic_table_0010:17:---URL--->https://uitestingplayground.com/dynamictable
+2026-06-27 21:25:54,016:INFO:test_dynamic_table_0010:18:---TITLE--->Dynamic Table
+2026-06-27 21:25:54,071:INFO:test_dynamic_table_0010:33:Header 1 ---> Name
+2026-06-27 21:25:54,100:INFO:test_dynamic_table_0010:33:Header 2 ---> CPU
+2026-06-27 21:25:54,126:INFO:test_dynamic_table_0010:33:Header 3 ---> Network
+2026-06-27 21:25:54,150:INFO:test_dynamic_table_0010:33:Header 4 ---> Memory
+2026-06-27 21:25:54,151:INFO:test_dynamic_table_0010:41:Name Column = 1
+2026-06-27 21:25:54,151:INFO:test_dynamic_table_0010:42:CPU Column = 2
+2026-06-27 21:25:54,199:INFO:test_dynamic_table_0010:56:Chrome CPU Value ---> 0.2%
+2026-06-27 21:45:25,725:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-27 21:46:45,463:INFO:test_dynamic_table_0010:17:---Starting fo test test_dynamic_table_0010---
+2026-06-27 21:46:45,464:INFO:test_dynamic_table_0010:18:---URL--->https://uitestingplayground.com/dynamictable
+2026-06-28 07:01:16,834:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-28 07:01:20,014:INFO:test_dynamic_table_0010:18:---Starting fo test test_dynamic_table_0010---
+2026-06-28 07:01:20,015:INFO:test_dynamic_table_0010:19:---URL--->https://uitestingplayground.com/dynamictable
+2026-06-28 07:01:20,024:INFO:test_dynamic_table_0010:20:---TITLE--->Dynamic Table
+2026-06-28 07:01:20,091:INFO:test_dynamic_table_0010:36:Header 1 ---> Name
+2026-06-28 07:01:20,111:INFO:test_dynamic_table_0010:36:Header 2 ---> Memory
+2026-06-28 07:01:20,127:INFO:test_dynamic_table_0010:36:Header 3 ---> CPU
+2026-06-28 07:01:20,144:INFO:test_dynamic_table_0010:36:Header 4 ---> Network
+2026-06-28 07:01:20,144:INFO:test_dynamic_table_0010:44:Name Column = 1
+2026-06-28 07:01:20,145:INFO:test_dynamic_table_0010:45:CPU Column = 3
+2026-06-28 07:04:00,317:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-28 07:04:03,217:INFO:test_dynamic_table_0010:18:---Starting fo test test_dynamic_table_0010---
+2026-06-28 07:04:03,218:INFO:test_dynamic_table_0010:19:---URL--->https://uitestingplayground.com/dynamictable
+2026-06-28 07:04:03,222:INFO:test_dynamic_table_0010:20:---TITLE--->Dynamic Table
+2026-06-28 07:04:03,290:INFO:test_dynamic_table_0010:36:Header 1 ---> Name
+2026-06-28 07:04:03,307:INFO:test_dynamic_table_0010:36:Header 2 ---> Memory
+2026-06-28 07:04:03,322:INFO:test_dynamic_table_0010:36:Header 3 ---> CPU
+2026-06-28 07:04:03,343:INFO:test_dynamic_table_0010:36:Header 4 ---> Disk
+2026-06-28 07:04:03,343:INFO:test_dynamic_table_0010:44:Name Column = 1
+2026-06-28 07:04:03,344:INFO:test_dynamic_table_0010:45:CPU Column = 3
+2026-06-28 07:04:03,392:INFO:test_dynamic_table_0010:59:Chrome CPU Value ---> 1.4%
+2026-06-28 07:04:53,660:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-28 07:04:57,656:INFO:test_dynamic_table_0010:18:---Starting fo test test_dynamic_table_0010---
+2026-06-28 07:04:57,657:INFO:test_dynamic_table_0010:19:---URL--->https://uitestingplayground.com/dynamictable
+2026-06-28 07:04:57,668:INFO:test_dynamic_table_0010:20:---TITLE--->Dynamic Table
+2026-06-28 07:04:57,727:INFO:test_dynamic_table_0010:36:Header 1 ---> Name
+2026-06-28 07:04:57,747:INFO:test_dynamic_table_0010:36:Header 2 ---> Memory
+2026-06-28 07:04:57,767:INFO:test_dynamic_table_0010:36:Header 3 ---> Disk
+2026-06-28 07:04:57,788:INFO:test_dynamic_table_0010:36:Header 4 ---> CPU
+2026-06-28 07:04:57,788:INFO:test_dynamic_table_0010:44:Name Column = 1
+2026-06-28 07:04:57,789:INFO:test_dynamic_table_0010:45:CPU Column = 4
+2026-06-28 07:04:57,828:INFO:test_dynamic_table_0010:59:Chrome CPU Value ---> 1.1%
+2026-06-28 07:18:35,798:WARNING:_process_logs:163:The msedgedriver version (148.0.3967.70) detected in PATH at C:\Users\visha\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (149.0.4022.80); currently, msedgedriver 149.0.4022.98 is recommended for MicrosoftEdge 149.*, so it is advised to delete the driver in PATH and retry
+2026-06-28 07:18:38,644:INFO:test_dynamic_table_0010:18:---Starting fo test test_dynamic_table_0010---
+2026-06-28 07:18:38,645:INFO:test_dynamic_table_0010:19:---URL--->https://uitestingplayground.com/dynamictable
+2026-06-28 07:18:38,649:INFO:test_dynamic_table_0010:20:---TITLE--->Dynamic Table
+2026-06-28 07:18:38,697:INFO:test_dynamic_table_0010:36:Header 1 ---> Name
+2026-06-28 07:18:38,708:INFO:test_dynamic_table_0010:36:Header 2 ---> CPU
+2026-06-28 07:18:38,719:INFO:test_dynamic_table_0010:36:Header 3 ---> Memory
+2026-06-28 07:18:38,730:INFO:test_dynamic_table_0010:36:Header 4 ---> Network
+2026-06-28 07:18:38,730:INFO:test_dynamic_table_0010:44:Name Column = 1
+2026-06-28 07:18:38,730:INFO:test_dynamic_table_0010:45:CPU Column = 2
+2026-06-28 07:18:38,751:INFO:test_dynamic_table_0010:59:Chrome CPU Value ---> 8.3%
