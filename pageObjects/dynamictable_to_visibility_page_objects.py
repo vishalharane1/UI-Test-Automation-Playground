@@ -1,3 +1,6 @@
+import time
+
+import allure
 from selenium.webdriver.common.by import By
 
 
@@ -44,10 +47,49 @@ class Progressbar_class:
             if progress == "75%":
                 self.driver.find_element(By.XPATH, self.stop_button_xpath).click()
                 self.driver.save_screenshot(".\\Screenshots\\Processbar_status.png")
+                # def click_stop_button(self):
+                #     self.driver.find_element(By.XPATH,self.stop_button_xpath).click()
                 break
 
-    # def click_stop_button(self):
-    #     self.driver.find_element(By.XPATH,self.stop_button_xpath).click()
+
+class visibility_class:
+    hide_button_xpath="//button[@id='hideButton']"
+    removedButton="removedButton"
+    zeroWidthButton="zeroWidthButton"
+    overlappedButton="overlappedButton"
+
+
+    def allure_attech_screeshot(self,name="screenshot00+"):
+        allure.attach(self.driver.get_screenshot_as_png(),
+            name=name,
+            attachment_type=allure.attachment_type.PNG
+        )
+
+    def __init__(self, driver):
+        self.driver = driver
+    def click_hide_button(self):
+        self.driver.find_element(By.XPATH, self.hide_button_xpath).click()
+        time.sleep(3)
+        self.allure_attech_screeshot("Button is visbile or not checking")
+        self.driver.save_screenshot(".\\Screenshots\\button_visiblity.png")
+    def click_removedButton(self):
+        removedButton=self.driver.find_element(By.ID, self.removedButton)
+        return removedButton
+
+    def click_zeroWidthButton(self):
+        zeroWidthButton= self.driver.find_element(By.ID, self.zeroWidthButton)
+        return zeroWidthButton
+
+    def click_overlappedButton(self):
+        overlappedButton= self.driver.find_element(By.ID, self.overlappedButton)
+        return overlappedButton
+
+
+
+
+
+
+
 
 
 

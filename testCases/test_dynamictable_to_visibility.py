@@ -1,6 +1,9 @@
+import time
+
 import pytest
 
-from pageObjects.dynamictable_to_visibility_page_objects import Dynamictable, Verify_text_class, Progressbar_class
+from pageObjects.dynamictable_to_visibility_page_objects import Dynamictable, Verify_text_class, Progressbar_class, \
+    visibility_class
 from utilites.Logger import Log_genrator_class
 from utilites.Read_Properties_dynamictable_to_visibility import Read_Config_for_dynamic_visible
 
@@ -11,6 +14,7 @@ class Test_Playgroud_003:
     url_dynamic=Read_Config_for_dynamic_visible.get_url_dynamic_table()
     verify_text_url=Read_Config_for_dynamic_visible.get_url_verifytext()
     Logs=Log_genrator_class.logs_method(".\\Logs\\dynamic_tables.logs")
+    url_visibility=Read_Config_for_dynamic_visible.get_url_visibility()
     progressbar_url=Read_Config_for_dynamic_visible.get_url_progressbar()
 
     def test_dynamic_table_0010(self):
@@ -80,6 +84,21 @@ class Test_Playgroud_003:
         self.processbar=Progressbar_class(self.driver)
         self.processbar.click_processbar_button()
         # self.Logs.info(f"---Processbar--->{self.processbar.click_processbar_button().progress}")
+
+    @pytest.mark.xfail
+    def test_visibility_013(self):
+        self.driver.get(self.url_visibility)
+        self.vissiblity=visibility_class(self.driver)
+        assert self.vissiblity.click_removedButton().is_displayed()
+        assert self.vissiblity.click_zeroWidthButton().is_displayed()
+        assert self.vissiblity.click_overlappedButton().is_displayed()
+        self.vissiblity.click_hide_button()
+        time.sleep(3)
+        self.driver.save_screenshot(".\\Screenshots\\button_visiblity_23232.png")
+        assert not self.vissiblity.click_removedButton().is_displayed()
+        assert not  self.vissiblity.click_zeroWidthButton().is_displayed()
+        assert not  self.vissiblity.click_overlappedButton().is_displayed()
+
 
 
 

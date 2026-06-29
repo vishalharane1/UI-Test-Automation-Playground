@@ -4,6 +4,9 @@ from selenium.webdriver.chrome.options import Options
 
 chrome_option=Options()
 chrome_option.add_argument("--headless")
+chrome_option.add_argument("--ignore-certificate-errors")
+chrome_option.add_argument("--ignore-ssl-errors")
+chrome_option.add_argument("--allow-running-insecure-content")
 from selenium.webdriver.edge.options import Options
 
 edge_option = Options()
@@ -38,3 +41,11 @@ def browser_setup(request):
     yield driver
     driver.quit()
 
+
+@pytest.fixture(params=[("user","pwd","loginpass"),
+                        ("user","pwd2","loginfail"),
+                        ("user","pwd3","loginfail"),
+                        ("user","pwd4","loginfail")
+])
+def test_data_sampleapp(request):
+    return request.param

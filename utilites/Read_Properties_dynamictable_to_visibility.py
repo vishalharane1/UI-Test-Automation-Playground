@@ -16,6 +16,11 @@ class Read_Config_for_dynamic_visible:
     def get_url_progressbar():
         return Read_Config_for_dynamic_visible.config.get("URL", "progressbar")
 
+    @staticmethod
+    def get_url_visibility():
+        return Read_Config_for_dynamic_visible.config.get("URL","visibility")
+
+
 
 
 
