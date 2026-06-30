@@ -3,7 +3,7 @@ import time
 import pytest
 
 from pageObjects.config_sampleapp_to_overlapped_page_objects import Sampleapp_to_overlapped_class, Mouse_Hover, \
-    Non_Breaking_Space_class
+    Non_Breaking_Space_class, Overlapped_Element_class
 from utilites.Read_Properties_config_sampleapp_to_overlapped import Read_properties_sampleapp_to_overlapp
 
 
@@ -13,6 +13,7 @@ class Test_sampleapp_to_overlapped_class:
     sampleapp_url=Read_properties_sampleapp_to_overlapp.get_url_sampleapp()
     mousehover_url=Read_properties_sampleapp_to_overlapp.get_url_mouseover()
     nbsp_url=Read_properties_sampleapp_to_overlapp.get_url_nbsp()
+    overlapped_url = Read_properties_sampleapp_to_overlapp.get_url_overlapped()
 
     def test_sampleapp_014(self,test_data_sampleapp):
         self.driver.get(self.sampleapp_url)
@@ -48,7 +49,19 @@ class Test_sampleapp_to_overlapped_class:
         self.nbsp=Non_Breaking_Space_class(self.driver)
         self.nbsp.click_button()
         button=self.nbsp.click_button()
-        assert button.is_enabled(),"Not Enabled to click"
+        assert button.is_enabled(),"Not Enabled to click nbsp button"
+
+    def test_Overlapped_Element(self):
+        self.driver.get(self.overlapped_url)
+        assert self.driver.title == "Overlapped Element", "We landed incorrect page"
+        self.overlapped=Overlapped_Element_class(self.driver)
+        self.overlapped.Entet_Id("93938")
+        self.overlapped.enter_name("vishal h")
+
+
+
+
+
 
 
 

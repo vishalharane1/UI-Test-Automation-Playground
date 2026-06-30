@@ -17,3 +17,7 @@ class Read_properties_sampleapp_to_overlapp:
     def get_url_nbsp():
         return Read_properties_sampleapp_to_overlapp.config.get("URL", "nbsp")
 
+    @staticmethod
+    def get_url_overlapped():
+        return Read_properties_sampleapp_to_overlapp.config.get("URL", "overlapped")
+
